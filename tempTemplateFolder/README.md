@@ -1,0 +1,1 @@
+This is where I'm putting the template files we are copying over, all of this will be modified into Svelte compatible items (I'm kinda new to this so i'm just gonna do a lot of copy and paste tinkering to see what works, the contents or this folder are THIS README and ANOTHER FOLDER CONTAINING THE TEMPLATE I downloaded)
